@@ -8,11 +8,11 @@ Mauricio Rodriguez
 
 # PROYECTO FINAL BDD MULTIDIMENSIONALES
 
-_En este presente proyecto describiremos como realizar la mineria de datos con herramientas potentes dedicadas a base de datos _
+_En este presente proyecto describiremos como realizar la mineria de datos con herramientas potentes dedicadas a base de datos para ello en el presente repositorio dedicaremos a establecer todo lo necesario a la utilizacion para el desarrollo de dicho proyecto_
 
-## Comenzando 🚀
+## Comenzamos 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Antes de dedicarnos a desarrollar todo este proyecto tenemos que entender que es la mineria de datos para_
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
